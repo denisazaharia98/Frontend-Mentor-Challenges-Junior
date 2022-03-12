@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/denisazaharia98/Frontend-Mentor-Challenges-Junior/tree/main/1.%20advice-generator-app-main)
+- Live Site URL: [Add live site URL here](https://denisazaharia98.github.io/Frontend-Mentor-Challenges-Junior/1.%20advice-generator-app-main/)
 
 ## My process
 
